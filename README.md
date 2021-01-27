@@ -7,11 +7,12 @@ A CLI application used for structuring my video tutorials neatly.
 ## Requirements
 
 1. Node.js > 15.0
-2. Internet connection to download pacskages.
+2. Internet connection to download packages.
 
 ### pre-requisites
 
 1. input folder with the tutorial videos, having same name as in tutorial structure on the website.
+2. storage space, to store tutorial.
 
 ## Steps
 
