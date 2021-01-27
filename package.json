@@ -1,0 +1,22 @@
+{
+  "name": "structarizer",
+  "version": "1.0.0",
+  "description": "Application to structurize courses downloaded from udemy",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "structurize",
+    "course",
+    "udemy",
+    "download"
+  ],
+  "author": "Utkarsh Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^5.5.0",
+    "x-ray": "^2.3.4"
+  }
+}
