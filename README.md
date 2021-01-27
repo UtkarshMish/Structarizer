@@ -1,4 +1,4 @@
-# Tutorials Structurizar
+# Tutorials Structarizer
 
 ## Introduction
 
